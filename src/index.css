@@ -1,0 +1,16 @@
+div{
+  background-color: antiquewhite;
+  width: 400px;
+  height: 100px;
+  margin: auto;
+}
+.label{
+  padding: 10px;
+  font-size: 2em;
+}
+.input{
+  margin-left: 10px;
+  width: 200px;
+  height: 30px;
+  font-size: 15px;
+}
